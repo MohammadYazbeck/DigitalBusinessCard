@@ -1,0 +1,66 @@
+name: business_card
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.1
+  jiffy: ^5.0.0
+  intl: ^0.17.0
+  http: ^0.13.4
+  cached_network_image: ^3.2.0
+  image_picker: ^0.8.5+3
+  show_up_animation: ^2.0.0
+  auto_animated: ^3.0.1
+  flutter_contacts: ^1.0.0
+  flutter_custom_clippers: ^2.1.0
+  vcard_maintained: ^0.0.1+1
+  nfc_in_flutter: 2.0.5
+  # flutter_local_notifications: ^9.5.3+1
+  sqflite: ^2.0.2
+  shared_preferences: ^2.0.15
+  path: ^1.8.0
+  qr_flutter: ^4.0.0
+  # scan: ^1.6.0
+  grouped_list: ^5.1.2
+  dropdown_search: ^5.0.3
+  badges: ^2.0.2
+  font_awesome_flutter: ^10.1.0
+  fluttericon: ^2.0.0
+  dartz: ^0.10.1
+  google_sign_in: ^5.3.1
+  device_preview: ^1.1.0
+  responsive_builder: ^0.4.2
+  image_pickers: ^2.0.0+2
+  flutter_svg: ^1.1.6
+  flutter_otp_text_field: ^1.0.1
+  path_provider: ^2.0.2
+  barcode_widget: ^2.0.1
+  mobile_scanner: ^2.0.0
+  url_launcher: ^6.1.7
+  dio: ^4.0.6
+  connectivity_plus: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo/Cairo-Bold.ttf
+          weight: 700
