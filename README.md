@@ -54,20 +54,16 @@ Digital Business Card is a modern solution for business owners to share and mana
 
 ## Screenshots
 
-### Sign Up
-![Signup](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/e179614b-3a6a-468c-8b04-cf1faa152c1b)
-
-### View Manage Your Profile 
-![Profile](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/df3acb14-404c-48a3-840f-5ab406a64803)
-![Profile2](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/776a8802-898f-4d3c-ac54-d03ebf9c528e)
-![PersonalCard1](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/b99ec4bc-182c-412f-a8e8-d20bf084fb2d)
-![PerosnalCard3](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/3ecc6074-6bd3-4ee5-b34e-f133a33672e2)
+### View & Manage Your Profile 
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/df3acb14-404c-48a3-840f-5ab406a64803" width="200">
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/776a8802-898f-4d3c-ac54-d03ebf9c528e" width="200">
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/b99ec4bc-182c-412f-a8e8-d20bf084fb2d" width="200">
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/3ecc6074-6bd3-4ee5-b34e-f133a33672e2" width="200">
 
 ### Share Your Profile
-![ProfileShareOptions](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/571479e9-663b-450f-bc63-4968e955eb95)
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/571479e9-663b-450f-bc63-4968e955eb95" width="200">
 
-### Add Cards To Your Contact List!
-![Add Card To Contact List](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/52e152d2-2df7-4048-b26a-2ca355bd084a)
+### Add Cards & Manage Your Contact List!
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/52e152d2-2df7-4048-b26a-2ca355bd084a" width="200">
+<img src="https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/8743c363-118f-4ee1-a982-650dfd823b92" width="200">
 
-### Manage Your Cards
-![ContactListCardOptions](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/8743c363-118f-4ee1-a982-650dfd823b92)
