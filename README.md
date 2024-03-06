@@ -1,4 +1,4 @@
-![ContactListCardOptions](https://github.com/MohammadYazbeck/DigitalBusinessCard/assets/107818784/314f87d8-c1a3-43b5-bd79-c95f19654252)# Digital Business Card
+# Digital Business Card
 
 ## Overview
 
